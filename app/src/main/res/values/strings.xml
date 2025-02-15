@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PruebaTecnica</string>
+    <string name="email">Correo electronico\n</string>
+    <string name="password">Contraseña</string>
+    <string name="login">Iniciar Sesión</string>
+    <string name="password_error_hint">Ingrese una contraseña valida</string>
+    <string name="email_error_login">Ingrese un correo valido</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="welcome">Bienvenido</string>
+    <string name="on_billboard">En cartelera</string>
+    <string name="length_">Duracion:</string>
+    <string name="premier">Fecha de estreno:</string>
+    <string name="classification_">Clasificación:</string>
+    <string name="genres_">Generos:</string>
+</resources>
